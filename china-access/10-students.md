@@ -66,4 +66,4 @@ Tencent Video، ‏iQIYI، انیمه‌های Bilibili، ‏NetEase Cloud Music
 نسخهٔ سایت همین مقاله (به فارسی هم هست): https://www.leotun.com/fa/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=china-access-10) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=china-access-10) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=china-access-10) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=china-access-10) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۱۵ امتیاز (حدود ۱۵ روز طرح شخصی) بگیرید، پیشنهادی همیشگی

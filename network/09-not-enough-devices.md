@@ -56,4 +56,4 @@
 نسخهٔ سایت همین مقاله (به فارسی هم هست): https://www.leotun.com/fa/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=network-09) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=network-09) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ هر دوستی که دعوت کنید و پرداخت کند، برای هر دوی شما ۲۰ روز طرح شخصی می‌آورد، و این پیشنهاد تاریخ پایان ندارد
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=network-09) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=network-09) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ هر دوستی که دعوت کنید و پرداخت کند، برای هر کدام از شما ۱۵ امتیاز (حدود ۱۵ روز طرح شخصی) می‌آورد، و این پیشنهاد تاریخ پایان ندارد
