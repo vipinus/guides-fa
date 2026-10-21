@@ -51,4 +51,4 @@
 - پشتیبانی هرگز در پیام خصوصی رمز عبور، کد تأیید یا پرداخت از شما نمی‌خواهد و هرگز خودش از شما نمی‌خواهد نرم‌افزار کنترل از راه دور نصب کنید.
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=troubleshooting-10) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=troubleshooting-10) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۲۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=troubleshooting-10) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=troubleshooting-10) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی

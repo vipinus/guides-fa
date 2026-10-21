@@ -31,4 +31,4 @@
 مراحل نصب و ورود را در [راهنمای کلاینت ۰۵](../client/05-tailscale-private-network.md) ببینید.
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=network-03) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=network-03) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۲۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=network-03) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=network-03) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی

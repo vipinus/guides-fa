@@ -37,4 +37,4 @@ AnyConnect کلاینت VPN سازمانی شرکت Cisco است. نام رسم�
 | Connection attempt has failed | این آدرس موقتاً در دسترس نیست؛ منطقه را عوض کنید |
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=client-01) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=client-01) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۲۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=client-01) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=client-01) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی

@@ -49,4 +49,4 @@
 نسخهٔ سایت همین مقاله (به فارسی هم هست): https://www.leotun.com/fa/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=overseas-access-04) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=overseas-access-04) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۲۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=overseas-access-04) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=overseas-access-04) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، پیشنهادی همیشگی

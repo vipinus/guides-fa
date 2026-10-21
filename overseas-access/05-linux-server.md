@@ -59,4 +59,4 @@
 نسخهٔ سایت همین مقاله (به فارسی هم هست): https://www.leotun.com/fa/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=overseas-access-05) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=overseas-access-05) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۲۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، بدون تاریخ پایان
+گردآوری‌شده توسط تیم [LeoTun](https://www.leotun.com/fa?utm_source=github&utm_content=overseas-access-05) · سؤالی دارید؟ [صفحهٔ تماس](https://www.leotun.com/fa/contact?utm_source=github&utm_content=overseas-access-05) را ببینید (گروه‌ها، ایمیل و پشتیبانی همه آنجاست) · با ثبت‌نام ۴ ساعت آزمایش رایگان بگیرید؛ دوستی را دعوت کنید که پرداخت کند تا هر کدام ۲۰ روز طرح شخصی بگیرید، بدون تاریخ پایان
